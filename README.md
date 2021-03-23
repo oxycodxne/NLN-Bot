@@ -9,3 +9,4 @@ Bot nuevamente ONLINE : prefix ``--``
 Comando ``--ally`` nuevamente agregado y Editado
 Comando ``--info`` añadido 
 Comando ``--invite`` editado 
+Comando ``--help`` editado 
