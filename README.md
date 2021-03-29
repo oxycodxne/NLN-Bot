@@ -11,3 +11,4 @@ Comando ``--info`` añadido
 Comando ``--invite`` editado 
 Comando ``--help`` editado 
 Comando ``--ip`` añadido
+Comando ``--help`` editado
