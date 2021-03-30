@@ -12,3 +12,4 @@ Comando ``--invite`` editado
 Comando ``--help`` editado 
 Comando ``--ip`` añadido
 Comando ``--help`` editado
+Comando ``--creadores`` añadido
